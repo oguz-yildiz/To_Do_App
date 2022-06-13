@@ -15,7 +15,8 @@ btn.addEventListener("click", (e) => {
         <i class="fa fa-check"></i>
         <p>${input.value}</p>
         <i class="fa fa-trash"></i>
-      </li> `;
+      </li> 
+      `;
   }
 
   input.value = "";
